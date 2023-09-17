@@ -11,3 +11,5 @@ Handling the error
 
 RapidAPI analytics (*Apologies if the app doesn't gives result on links, it's a free service of API and can hold on to only 50 calls/month from API)
 <img width="808" alt="image" src="https://github.com/mank-423/SummaryAI/assets/96490105/1b65a4a9-9d1f-4273-b608-d3f6afc3e36e">
+
+Link to the RapidAPI: https://rapidapi.com/restyler/api/article-extractor-and-summarizer
